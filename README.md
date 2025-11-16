@@ -49,7 +49,7 @@ Listed alphabetically in broad categories, with in the first column the names of
 | [Oil3/QLCodec](https://github.com/Oil3/QLCodec) | Quick Look Previewer extension to 'quicklook-play' every video and audio formats not natively supported by macOS |
 | [Marginal/QLVideo](https://github.com/Marginal/QLVideo) | This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files |
 | [wang-bin/SPV](https://github.com/wang-bin/SPV) | Swift Video Player and QuickLook plugin |
-| [exgphe/quicklook-webm](https://github.com/exgphe/quicklook-webm) | Archived project, playable QuickLook for WebM |
+| [exgphe/quicklook-webm](https://github.com/exgphe/quicklook-webm) | A playable QuickLook Preview Extension for WebM Video Files | 
 | [Oil3/Webm-QuickLook-Plug-In](https://github.com/Oil3/Webm-QuickLook-Plug-In) | The original free MacOS plugin to play .webm movies in Quick Look Preview |
 
 <br>
