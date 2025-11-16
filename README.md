@@ -1,5 +1,8 @@
+<p align="justify">
 List of nearly 50  modern .appex-based Quick Look Previewer extensions, compatible with macOS 15 Sequoia and beyond.    
-Listed alphabetically in broad categories, with in the first column the names of author/extension, hyperlinking to the repository, and in the second column the verbatim description.
+Listed alphabetically in broad categories, with in the first column the names of author/extension, hyperlinking to the repository, and in the second column the verbatim descriptions.
+<br><br>
+
 
 ### Specialized File Formats
 
