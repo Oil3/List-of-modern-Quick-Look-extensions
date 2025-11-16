@@ -54,7 +54,7 @@ Listed alphabetically in broad categories, with in the first column the names of
 
 <br>
 
-### Development Tools & Frameworks
+### Development Tools & Frameworks (not extensions) 
 
 | Repository | Description |
 |------------|-------------|
@@ -65,7 +65,7 @@ Listed alphabetically in broad categories, with in the first column the names of
 | [rsmmr/qlview](https://github.com/rsmmr/qlview) | Standalone, Quick Look-based document preview application for macOS |
 <br>
 
-### Examples & Demos
+### Examples & Demos  (not extensions) 
 
 | Repository | Description |
 |------------|-------------|
