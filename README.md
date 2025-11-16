@@ -44,7 +44,7 @@ Listed alphabetically in broad categories, with in the first column the names of
 
 | Repository | Description |
 |-------------|-------------|
-| [mkj-is/LottieViewerMac](https://github.com/mkj-is/LottieViewerMac)           | SwiftUI macOS app for previewing Lottie animations |
+| [mkj-is/LottieViewerMac](https://github.com/mkj-is/LottieViewerMac)          | SwiftUI macOS app for previewing Lottie animations |
 | [Oil3/Mkv-Quicklook](https://github.com/Oil3/Mkv-Quicklook) | Free macOS plugin to play mkv movies in Quick Look Preview. |
 | [Oil3/QLCodec](https://github.com/Oil3/QLCodec) | Quick Look Previewer extension to 'quicklook-play' every video and audio formats not natively supported by macOS |
 | [Marginal/QLVideo](https://github.com/Marginal/QLVideo) | This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files |
@@ -58,7 +58,7 @@ Listed alphabetically in broad categories, with in the first column the names of
 
 | Repository | Description |
 |------------|-------------|
-| [noppefoxwolf/FileManagerUI](https://github.com/noppefoxwolf/FileManagerUI) | A SwiftUI file manager component for iOS apps with native design and QuickLook integration |
+| [noppefoxwolf/FileManagerUI](https://github.com/noppefoxwolf/FileManagerUI)      | A SwiftUI file manager component for iOS apps with native design and QuickLook integration |
 | [flocked/FZQuicklook](https://github.com/flocked/FZQuicklook) | Framework For Quicklook Previews |
 | [Oil3/PluginKits](https://github.com/Oil3/PluginKits) | Advanced extension/plugin management and Quick Look extension debugging tool, for macOS |
 | [pmeinhardt/ql](https://github.com/pmeinhardt/ql) | Quick Look from the command-line 👀 |
