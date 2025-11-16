@@ -1,5 +1,5 @@
 <p align="justify">
-List of nearly 50  modern .appex-based Quick Look Previewer extensions, compatible with macOS 15 Sequoia and beyond.    
+List of nearly 50  modern .appex-based Quick Look Previewer extensions, compatible with macOS 15 Sequoia and beyond.      
 Listed alphabetically in broad categories, with in the first column the names of author/extension, hyperlinking to the repository, and in the second column the verbatim descriptions.
 <br><br>
 
@@ -82,7 +82,7 @@ Listed alphabetically in broad categories, with in the first column the names of
 
 
 <br>
-Plese open an issue or a pull request for correction or addition, but no .qlgenerator as they are now deprecated in favor of the sandboxed .appex.  
+The objective is to be as exhaustive as up-to-date, plese open an issue or a pull request for correction or addition, but no .qlgenerator as they are now deprecated in favor of the sandboxed .appex.  
 
 
 <br>
