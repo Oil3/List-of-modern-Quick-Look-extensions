@@ -44,7 +44,7 @@ Listed alphabetically in broad categories, with in the first column the names of
 
 | Repository | Description |
 |-------------|-------------|
-| [mkj-is/LottieViewerMac](https://github.com/mkj-is/LottieViewerMac)          | SwiftUI macOS app for previewing Lottie animations |
+| [mkj-is/LottieViewerMac](https://github.com/mkj-is/LottieViewerMac)            | SwiftUI macOS app for previewing Lottie animations |
 | [Oil3/Mkv-Quicklook](https://github.com/Oil3/Mkv-Quicklook) | Free macOS plugin to play mkv movies in Quick Look Preview. |
 | [Oil3/QLCodec](https://github.com/Oil3/QLCodec) | Quick Look Previewer extension to 'quicklook-play' every video and audio formats not natively supported by macOS |
 | [Marginal/QLVideo](https://github.com/Marginal/QLVideo) | This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files |
