@@ -58,7 +58,7 @@ Listed alphabetically in broad categories, with in the first column the names of
 
 | Repository | Description |
 |------------|-------------|
-| [noppefoxwolf/FileManagerUI](https://github.com/noppefoxwolf/FileManagerUI)      | A SwiftUI file manager component for iOS apps with native design and QuickLook integration |
+| [noppefoxwolf/FileManagerUI](https://github.com/noppefoxwolf/FileManagerUI)    | A SwiftUI file manager component for iOS apps with native design and QuickLook integration |
 | [flocked/FZQuicklook](https://github.com/flocked/FZQuicklook) | Framework For Quicklook Previews |
 | [Oil3/PluginKits](https://github.com/Oil3/PluginKits) | Advanced extension/plugin management and Quick Look extension debugging tool, for macOS |
 | [pmeinhardt/ql](https://github.com/pmeinhardt/ql) | Quick Look from the command-line 👀 |
