@@ -82,7 +82,7 @@ Listed alphabetically in broad categories, with in the first column the names of
 
 
 <br>
-The objective is to be as exhaustive as up-to-date, plese open an issue or a pull request for correction or addition, but no .qlgenerator as they are now deprecated in favor of the sandboxed .appex.  
+The objective is to be as exhaustive as up-to-date, please open an issue or a pull request for correction or addition, but no .qlgenerator as they are now deprecated in favor of the sandboxed .appex.  
 
 
 <br>
