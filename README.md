@@ -5,6 +5,7 @@ Listed alphabetically in broad categories, with in the first column the names of
 
 
 ### Specialized File Formats
+<p align="justify">
 
 | Repository | Description |
 |------------|-------------|
@@ -27,6 +28,7 @@ Listed alphabetically in broad categories, with in the first column the names of
 <br>
 
 ### `Code & Text`  
+<p align="justify">
 
 | Repository | Description |
 |-------------|-------------|
@@ -40,7 +42,7 @@ Listed alphabetically in broad categories, with in the first column the names of
 <br>  
 
 ### `Video & Media` 
-
+<p align="justify">
 
 | Repository | Description |
 |-------------|-------------|
@@ -55,6 +57,7 @@ Listed alphabetically in broad categories, with in the first column the names of
 <br>
 
 ### Development Tools & Frameworks (not extensions) 
+<p align="justify">
 
 | Repository | Description |
 |------------|-------------|
@@ -66,6 +69,7 @@ Listed alphabetically in broad categories, with in the first column the names of
 <br>
 
 ### Examples & Demos  (not extensions) 
+<p align="justify">
 
 | Repository | Description |
 |------------|-------------|
