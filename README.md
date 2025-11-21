@@ -37,7 +37,7 @@ Listed alphabetically in broad categories, with in the first column the names of
 | [Oil3/CodeColors](https://github.com/Oil3/CodeColors-Quicklook-Syntax-Highlighting) | Very fast macOS extension for coloring code, supports every (60+) uti types |
 | [smittytone/PreviewCode](https://github.com/smittytone/PreviewCode) | QuickLook source code preview and icon thumbnailing app extensions for macOS Catalina and beyond |
 | [jtbandes/quicklookjs](https://github.com/jtbandes/quicklookjs) | Quick Look plugin for web-based previews |
-| [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight)  | Quick Look extension for source code with syntax highlighting |
+| [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) | Quick Look extension for source code with syntax highlighting |
 | [MyCometG3/QLStephenSwift](https://github.com/MyCometG3/QLStephenSwift) | A modern QuickLook extension for macOS to preview text files without extensions |
 | [smittytone/PreviewText](https://github.com/smittytone/PreviewText) | QuickLook text preview and icon thumbnailing app extensions for macOS Catalina and beyond |
 | [jason-schell/textfile-ql](https://github.com/jason-schell/textfile-ql) | This macOS QuickLook extension enables viewing files without a file extension |  
