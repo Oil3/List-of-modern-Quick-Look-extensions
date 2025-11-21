@@ -15,6 +15,7 @@ Listed alphabetically in broad categories, with in the first column the names of
 | [hacknus/DotTHzQL](https://github.com/hacknus/DotTHzQL) | A simple Quicklook plugin for macOS Finder to preview the structure of dotTHz files |
 | [arytek/epub-quicklook-extension](https://github.com/arytek/epub-quicklook-extension) | A MacOS Quick Look extension enabling the ability to preview EPUB eBooks |
 | [graelo/FreeCADCompanion](https://github.com/graelo/FreeCADCompanion) | A simple macOS 15+ QuickLook Extension Plugin for FreeCAD FCStd files |
+| [lukeredmore/google-drive-ql-preview](https://github.com/lukeredmore/google-drive-ql-preview) | Adds Quick Look Preview support for Google Docs files |
 | [harshal2030/Grizzly](https://github.com/harshal2030/Grizzly) | A proper open source modern zip viewer for macOS with quick look support |
 | [smittytone/PreviewJson](https://github.com/smittytone/PreviewJson) | QuickLook JSON preview and icon thumbnailing app extensions for macOS Catalina and beyond |
 | [benwaffle/musescore-quicklook](https://github.com/benwaffle/musescore-quicklook) | QuickLook extension for MuseScore files |
