@@ -10,21 +10,22 @@ Listed alphabetically in broad categories, with in the first column the names of
 
 | Repository | Description |
 |------------|-------------|
-| [insidegui/AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) | An app that lets you open .car files and browse/extract their images |
-| [neuralink/DicomPreview](https://github.com/neuralink/DicomPreview) | MacOS QuickLook Application for viewing DICOMs |
+| [MikeshCZ/ArchiveQuickLook](https://github.com/iMikeshCZ/ArchiveQuickLook)|A macOS QuickLook extension that enables quick preview of archive file contents directly in Finder.|
+| [insidegui/AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer)| An app that lets you open .car files and browse/extract their images |
+| [neuralink/DicomPreview](https://github.com/neuralink/DicomPreview)| MacOS QuickLook Application for viewing DICOMs |
 | [hacknus/DotTHzQL](https://github.com/hacknus/DotTHzQL) | A simple Quicklook plugin for macOS Finder to preview the structure of dotTHz files |
-| [arytek/epub-quicklook-extension](https://github.com/arytek/epub-quicklook-extension) | A MacOS Quick Look extension enabling the ability to preview EPUB eBooks |
+| [arytek/epub-quicklook-extension](https://github.com/arytek/epub-quicklook-extension)|A MacOS Quick Look extension enabling the ability to preview EPUB eBooks |
 | [graelo/FreeCADCompanion](https://github.com/graelo/FreeCADCompanion) | A simple macOS 15+ QuickLook Extension Plugin for FreeCAD FCStd files |
-| [lukeredmore/google-drive-ql-preview](https://github.com/lukeredmore/google-drive-ql-preview) | Adds Quick Look Preview support for Google Docs files |
-| [harshal2030/Grizzly](https://github.com/harshal2030/Grizzly) | A proper open source modern zip viewer for macOS with quick look support |
-| [smittytone/PreviewJson](https://github.com/smittytone/PreviewJson) | QuickLook JSON preview and icon thumbnailing app extensions for macOS Catalina and beyond |
-| [benwaffle/musescore-quicklook](https://github.com/benwaffle/musescore-quicklook) | QuickLook extension for MuseScore files |
+| [lukeredmore/google-drive-ql-preview](https://github.com/lukeredmore/google-drive-ql-preview)| Adds Quick Look Preview support for Google Docs files |
+| [harshal2030/Grizzly](https://github.com/harshal2030/Grizzly) |A proper open source modern zip viewer for macOS with quick look support |
+| [smittytone/PreviewJson](https://github.com/smittytone/PreviewJson)|QuickLook JSON preview and icon thumbnailing app extensions for macOS Catalina and beyond |
+| [benwaffle/musescore-quicklook](https://github.com/benwaffle/musescore-quicklook) |QuickLook extension for MuseScore files |
 | [ealeksandrov/ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) | Quick Look plugin for mobile apps and provisioning profiles |
-| [JethroHemmann/QuickLookProtein](https://github.com/JethroHemmann/QuickLookProtein) | Preview for protein/3D structure files (PDB, SDF, CIF) |
+| [JethroHemmann/QuickLookProtein](https://github.com/JethroHemmann/QuickLookProtein)| Preview for protein/3D structure files (PDB, SDF, CIF) |
 | [relikd/QLAppBundle](https://github.com/relikd/QLAppBundle) | QuickLook plugin for app bundles (.ipa, .tipa, .appex, .xcarchive) |
 | [sidhantchadha/QuickLookIPA](https://github.com/sidhantchadha/QuickLookIPA) | A macOS app to effortlessly preview .ipa files directly in Finder |
-| [levitatingpineapple/preview-scad](https://github.com/levitatingpineapple/preview-scad) | QuickLook and Thumbnail extensions for OpenSCAD |
-| [smittytone/PreviewYaml](https://github.com/smittytone/PreviewYaml) | QuickLook YAML preview and icon thumbnailing app extensions for macOS Catalina and beyond |
+| [levitatingpineapple/preview-scad](https://github.com/levitatingpineapple/preview-scad)| QuickLook and Thumbnail extensions for OpenSCAD |
+| [smittytone/PreviewYaml](https://github.com/smittytone/PreviewYaml)|QuickLook YAML preview and icon thumbnailing app extensions for macOS Catalina and beyond |
 
   
 <br>
