@@ -22,7 +22,7 @@ Listed alphabetically in broad categories, with in the first column the names of
 | [benwaffle/musescore-quicklook](https://github.com/benwaffle/musescore-quicklook) |QuickLook extension for MuseScore files |
 | [ealeksandrov/ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) | Quick Look plugin for mobile apps and provisioning profiles |
 | [JethroHemmann/QuickLookProtein](https://github.com/JethroHemmann/QuickLookProtein)| Preview for protein/3D structure files (PDB, SDF, CIF) |
-| [relikd/QLAppBundle](https://github.com/relikd/QLAppBundle) | QuickLook plugin for app bundles (.ipa, .tipa, .appex, .xcarchive) |
+| [relikd/QLAppBundle](https://github.com/relikd/QLAppBundle) | QuickLook plugin for app bundles (.ipa, .tipa, .appex, .xcarchive, .apk, .apkm) |
 | [sidhantchadha/QuickLookIPA](https://github.com/sidhantchadha/QuickLookIPA) | A macOS app to effortlessly preview .ipa files directly in Finder |
 | [levitatingpineapple/preview-scad](https://github.com/levitatingpineapple/preview-scad)| QuickLook and Thumbnail extensions for OpenSCAD |
 | [smittytone/PreviewYaml](https://github.com/smittytone/PreviewYaml)|QuickLook YAML preview and icon thumbnailing app extensions for macOS Catalina and beyond |
