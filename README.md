@@ -10,7 +10,7 @@ Listed alphabetically in broad categories, with in the first column the names of
 
 | Repository | Description |
 |------------|-------------|
-| [MikeshCZ/ArchiveQuickLook](https://github.com/iMikeshCZ/ArchiveQuickLook)|A macOS QuickLook extension that enables quick preview of archive file contents directly in Finder.|
+| [MikeshCZ/ArchiveQuickLook](https://github.com/MikeshCZ/ArchiveQuickLook)|A macOS QuickLook extension that enables quick preview of archive file contents directly in Finder.|
 | [insidegui/AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer)| An app that lets you open .car files and browse/extract their images |
 | [neuralink/DicomPreview](https://github.com/neuralink/DicomPreview)| MacOS QuickLook Application for viewing DICOMs |
 | [hacknus/DotTHzQL](https://github.com/hacknus/DotTHzQL) | A simple Quicklook plugin for macOS Finder to preview the structure of dotTHz files |
