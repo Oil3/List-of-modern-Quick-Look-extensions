@@ -11,6 +11,7 @@ Listed alphabetically in broad categories, with in the first column the names of
 | Repository | Description |
 |------------|-------------|
 | [MikeshCZ/ArchiveQuickLook](https://github.com/iMikeshCZ/ArchiveQuickLook)|A macOS QuickLook extension that enables quick preview of archive file contents directly in Finder.|
+| [Jingyuan-Zheng/Archive-Peek](https://github.com/Jingyuan-Zheng/Archive-Peek) | A native macOS Quick Look extension for browsing archives and disk images without mounting or extracting them. |
 | [insidegui/AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer)| An app that lets you open .car files and browse/extract their images |
 | [neuralink/DicomPreview](https://github.com/neuralink/DicomPreview)| MacOS QuickLook Application for viewing DICOMs |
 | [hacknus/DotTHzQL](https://github.com/hacknus/DotTHzQL) | A simple Quicklook plugin for macOS Finder to preview the structure of dotTHz files |
@@ -98,6 +99,5 @@ The objective is to be as exhaustive as up-to-date, please open an issue or a pu
 <br>
 
 <sub><sup>Mac and macOS are trademarks of [Apple Inc.](http://www.apple.com/), registered in the U.S. and other countries and regions.
-
 
 
